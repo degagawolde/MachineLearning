@@ -1,1 +1,2 @@
-# deggu
+# Environment Sound Classification with CNN
+
